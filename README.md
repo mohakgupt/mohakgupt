@@ -1,29 +1,20 @@
-<style>
-  @media (prefers-color-scheme: light){
-    p:nth-of-type(2){
-      display: none;
-     }
-  }
-  @media (prefers-color-scheme: dark){
-    p:nth-of-type(1){
-      display: none;
-     }
-  }
-</style>
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  Hi, I’m Mohak <img align="right" src="https://komarev.com/ghpvc/?username=mohakgupt&color=brightgreen" />
 
 ```
 💞️ I’m looking to collaborate on open source developement
 ```
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=mohakgupt&show_icons=true" style="height:10em;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakgupt&layout=compact" style="height:10em;">
+  <picture style="height:50px;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohakgupt&theme=dark&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohakgupt&show_icons=true" style="height:50px;">
+  </picture>
+</p><p align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakgupt&layout=compact&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakgupt&layout=compact" style="height:10em;">
+  </picture>
 </p>
 <p align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=mohakgupt&theme=dark&show_icons=true" style="height:10em;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakgupt&layout=compact&theme=dark" style="height:10em;">
-</p><p align=center>
 <code><img height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" width="45" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
