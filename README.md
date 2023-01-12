@@ -6,12 +6,12 @@
 <p align=center>
   <picture style="height:50px;">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohakgupt&theme=dark&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohakgupt&show_icons=true" style="height:50px;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohakgupt&show_icons=true" style="height:50px;">
   </picture>
 </p><p align=center>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakgupt&layout=compact&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohakgupt&layout=compact" style="height:10em;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohakgupt&layout=compact" style="height:10em;">
   </picture>
 </p>
 <p align=center>
